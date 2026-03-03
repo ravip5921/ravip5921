@@ -1,9 +1,9 @@
 # Hi, I'm Ravi Pandey
 
-🎓 M.S. Computer Science @ University of Nebraska Omaha (GPA: 4.0)
-🔬 Graduate Research Assistant | Systems + AI + LLMs
-💻 Full-Stack Engineer | Data & Cloud Enthusiast
-🌎 Omaha, Nebraska
+🎓 M.S. Computer Science @ University of Nebraska Omaha (GPA: 4.0)   
+🔬 Graduate Research Assistant | Systems + AI + LLMs   
+💻 Full-Stack Engineer | Data & Cloud Enthusiast   
+🌎 Omaha, Nebraska   
 
 ---
 
