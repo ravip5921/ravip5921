@@ -25,10 +25,27 @@ Currently, I’m working on extending **Answer Set Programming (ASP)** using AST
 
 ## 🧪 Research & Projects
 
+### 🔬 Functional Answer Set Programming (FASP)
+
+📦 https://github.com/krr-uno-fasp
+
+Research and development on extending **Answer Set Programming (ASP)** with functional syntax and higher-level abstractions.
+
+- Designed and implemented functional extensions to declarative logic programs  
+- Built parser enhancements and custom operator support  
+- Developed AST transformation pipelines using the Clingo API  
+- Created a Python-based compilation framework to translate functional programs into standard ASP and back  
+- Preserved compatibility with existing ASP solvers while enabling more expressive modeling  
+
+This work bridges **formal logic, programming language design, and systems-level tooling**.
+
+---
+
 ### 🧠 XAI + LLM Integration Study (2025)
 
 📦 `Doctor-Speciality-Recommender`
 📦 `DoctorSpecialityRecommender-Quiz`
+
 A web-based explainable AI system that:
 
 * Integrates classical ML models + LLM explanations
@@ -146,21 +163,33 @@ Avana Game Studios
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 Highlights
 
-🔹 Strong foundation in **Operating Systems & Systems Programming** (`OS-Project`, `distributed_rtos`)
-🔹 AI-driven applications & research tools
-🔹 Data engineering & analytics pipelines
-🔹 Early projects in C++ graphics, Java OCR systems, and Python ML
+* Research in **Answer Set Programming (ASP) & Functional ASP Extensions**
+  Contributing to: [https://github.com/krr-uno-fasp](https://github.com/krr-uno-fasp)
+  Building parser extensions, AST transformations, and Python-based compilation pipelines using Clingo.
 
-From low-level C systems code to high-level LLM applications — I enjoy working across the stack.
+* Strong foundation in **Operating Systems & Systems Programming**
+  Repositories: `OS-Project`, `distributed_rtos`
+
+* AI-driven applications & research tools
+  Including LLM-powered medical recommender systems and XAI user studies
+
+* Data engineering & analytics pipelines
+  ETL workflows, API integrations, and business intelligence systems
+
+* Early projects in C++ graphics, Java OCR systems, and Python ML
+  Demonstrating strong fundamentals across paradigms and languages
+
+
+From low-level C systems code to high-level LLM applications, I enjoy working across the stack.
 
 ---
 
 ## 🏆 Honors
 
 * 💰 $5,000 GRACA Research Grant (UNO)
-* 🥇 First Prize — openIMIS-DRG Datathon 2022
+* 🥇 First Prize - openIMIS-DRG Datathon 2022
 * 🎓 Batch Topper (Multiple Semesters)
 
 ---
