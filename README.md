@@ -210,6 +210,12 @@ From low-level C systems code to high-level LLM applications, I enjoy working ac
 
 ---
 
+## 📄 Resume
+
+📄 [Download Resume (PDF)](resume.pdf)
+
+---
+
 If you're working on:
 
 * Systems research
