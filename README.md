@@ -212,7 +212,7 @@ From low-level C systems code to high-level LLM applications, I enjoy working ac
 
 ## 📄 Resume
 
-📄 [Download Resume (PDF)](Resume.pdf)
+📄 [Resume (PDF)](Resume.pdf)
 
 ---
 
