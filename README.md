@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ravi Pandey
+# Hi, I'm Ravi Pandey
 
 🎓 M.S. Computer Science @ University of Nebraska Omaha (GPA: 4.0)
 🔬 Graduate Research Assistant | Systems + AI + LLMs
