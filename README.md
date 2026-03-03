@@ -212,7 +212,7 @@ From low-level C systems code to high-level LLM applications, I enjoy working ac
 
 ## 📄 Resume
 
-📄 [Resume (PDF)](Resume.pdf)
+📄 [Resume (PDF)](https://github.com/ravip5921/ravip5921/raw/main/Resume.pdf)
 
 ---
 
