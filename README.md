@@ -106,8 +106,7 @@ Developed a face-recognition-based attendance system using on-device feature ext
 
 Co-authored research on image segmentation, noise filtering, and skew correction for mobile OCR, achieving a reported **50% improvement in recognition accuracy**.
 
-**Related repositories:** `OCR` `Segmentation` `SkewCorrection` `EasyRead`
-
+**Related repositories:** [OCR](https://github.com/ravip5921/OCR) | [Segmentation](https://github.com/ravip5921/Segmentation) | [SkewCorrection](https://github.com/ravip5921/SkewCorrection) | [EasyRead](https://github.com/ravip5921/EasyRead)
 ---
 
 ## 💼 Professional Experience
